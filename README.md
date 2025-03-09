@@ -1,4 +1,4 @@
-**ΧΡΗΣΗ ΤΗΣ ΕΦΑΡΜΟΓΗΣ** <br><br>
+APP EXECUTION
 
 Initially, the scraper must be executed to read and modify the data from the .csv file, preparing it for indexing, analysis, and search functionality. <br>
 
