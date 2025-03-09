@@ -1,16 +1,11 @@
-**ΔΗΜΗΤΡΟΠΟΥΛΟΣ ΔΗΜΗΤΡΙΟΣ 4352** <br> <br>
-**ΔΕΔΙΚΟΥΣΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ 2962** <br> <br>
-
 **ΧΡΗΣΗ ΤΗΣ ΕΦΑΡΜΟΓΗΣ** <br><br>
 
-Αρχικά, πρέπει να γίνει εκτέλεση του scrapper για να διαβαστούν και τροποποιηθούν τα δεδομένα από το αρχείο .csv ώστε να είναι έτοιμα προς ευρετηριοποίηση, ανάλυση και αναζήτηση.<br>
+Initially, the scraper must be executed to read and modify the data from the .csv file, preparing it for indexing, analysis, and search functionality. <br>
 
-H εκτέλεση του scrapper γίνεται με την εντολή python3 scrapper.py στο directory όπου βρίσκεται το python αρχείο.<br>
+To run the scraper, use the command python3 scrapper.py in the directory where the Python file is located. <br>
 
-Ο αριθμός των τραγουδιών που θα διαβαστούν ορίζεται από την σταθερά Ν του αρχείου. <br>
+The number of songs to be read is determined by the constant N in the file. <br>
 
-Στο σημείο αυτό να σημειωθεί ότι το dataset συλλέχθηκε από την data science κοινότητα Kaggle και μπορείτε να το βρείτε στον ακόλουθο σύνδεσμο https://www.kaggle.com/code/mpwolke/500-greatest-songs <br>
+It is important to note that the dataset was sourced from the Kaggle data science community and can be accessed at the following link: [500 Greatest Songs] (https://www.kaggle.com/code/mpwolke/500-greatest-songs). <br>
 
-Στη συνέχεια, για την επεξεργασία των αρχείων, εκτελούμε την IndexStart. <br>
-
-Όταν αυτή ολοκληρώσει τερματίζουμε αυτό το configuration και τρέχουμε την InformationRetrievalApp όπου θα εμφανίσει ένα παράθυρο με την μηχανή αναζήτησης. <br>
+Next, for file processing, execute the IndexStart. Once it completes, terminate this configuration and run the InformationRetrievalApp, which will open a window with the search engine interface. <br>
